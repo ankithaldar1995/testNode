@@ -13,9 +13,10 @@
     "start" : "node app.js",
     "test": "mocha"
   },
-  "engines": {
-    "node": "4.1.1"
-  },
+  "engines" : {
+    "node" : "~0.12.7",
+    "npm" : "~2.15.0"
+   },
   "keywords": [
     "fun",
     "node"
