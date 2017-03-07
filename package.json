@@ -13,6 +13,9 @@
     "start" : "node app.js",
     "test": "mocha"
   },
+  "engines": {
+    "node": "4.1.1"
+  },
   "keywords": [
     "fun",
     "node"
