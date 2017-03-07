@@ -1,0 +1,21 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.1",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "fun",
+    "node"
+  ],
+  "author": "me",
+  "license": "ISC"
+}
